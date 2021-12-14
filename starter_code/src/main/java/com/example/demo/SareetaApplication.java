@@ -14,4 +14,6 @@ public class SareetaApplication {
 		SpringApplication.run(SareetaApplication.class, args);
 	}
 
+	// Adding a comment for Lesson 4 CI/CD - Git
+
 }
